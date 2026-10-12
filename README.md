@@ -14,6 +14,8 @@
 - mettre en place des jeux de tests produisant des courbes ;
 - automatiser ces traitements à l'aide de la commande `make`.
 
+placer un commit
+
 ---
 
 ## Exercice 1 — Calculer une moyenne
